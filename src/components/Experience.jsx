@@ -93,7 +93,7 @@ const Experience = () => {
       title: 'B.Tech Computer Science',
       institution: 'Institute of Engineering and Management',
       percentage: '9.0 CGPA',
-      description: 'Pursuing Computer Science Engineering with specialization in AI/ML',
+      description: 'Pursuing B.Tech in Computer Science & Engineering ',
       icon: faUniversity,
       color: 'bg-gradient-to-br from-green-500 to-emerald-700',
       image: iemImage, // Use your actual IEM image
